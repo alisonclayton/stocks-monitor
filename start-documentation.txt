@@ -1,0 +1,20 @@
+REQUIREMENTS
+
+
+LINGUAGEM
+
+> python :: intealation
+
+
+FRAMWORK
+
+> Anaconda :: instalation
+
+
+BIBLIOTECAS
+
+> Streamlit :: instalation
+>> comand: pip install Streamlit
+
+> investpy :: instalation
+>> comand: pip install investpy
